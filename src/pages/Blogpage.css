@@ -1,0 +1,14 @@
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+
+#back{
+    width: 70px;
+    color:brown;
+}
+
+
+#sub {
+    background-color: red;
+}
